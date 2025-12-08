@@ -1,1 +1,2 @@
 I am starting git and GitHub
+And am very excited to learn it
